@@ -1,4 +1,4 @@
-## 🧮 Zepto Product Analytics — SQL Project**
+## 🧮 Zepto Product Analytics — SQL Project
 
 This is my **FIRST SQL PROJECT**  where I explored, cleaned, and analyzed a retail product dataset inspired by **Zepto**, a fast-commerce delivery platform. 
 The goal was to understand the data, clean inconsistencies, and answer real-world business questions using SQL.
