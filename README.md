@@ -29,12 +29,19 @@ The goal was to understand the data, clean inconsistencies, and answer real-worl
 **📊 The project aimed to Answer the following questions**
 
  Q1  Top 10 best-value products based on discount 
- Q2  Products with high MRP but currently out of stock 
+ 
+ Q2  Products with high MRP but currently out of stock
+ 
  Q3  Estimated revenue per product category 
+ 
  Q4  Products with MRP > ₹500 and discount < 10% 
+ 
  Q5  Top 5 categories offering the highest average discount 
+ 
  Q6  Price per gram for products ≥ 100g 
+ 
  Q7  Categorization of products based on weight (Low/Medium/Bulk) 
+ 
  Q8  Total inventory weight per category 
 
 **💡 Learnings**
